@@ -1,0 +1,29 @@
+body{
+   background-image: url(./picture/anhnen1.jpg);
+}
+.sticky-top{
+   position:relative !important;
+ }
+.anhthanhvien{
+    float:left;
+     margin-left: 199px;
+     border: 1px solid black;
+     margin-bottom: 100px;
+     
+}
+.anhthanhvien img  {
+   border-radius:100%;
+   width: 200px;
+   height: 200px;
+   margin-left: 27px;
+   padding:3px;
+   
+}
+@media only screen and (max-width: 600px) {
+   body {
+     background-color: lightblue;
+   }
+   .thanhvien{
+      float:none;
+   }
+ }

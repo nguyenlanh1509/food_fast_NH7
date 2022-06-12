@@ -1,0 +1,19 @@
+.hinhdong{
+    text-align: center;
+}
+#anhcamon{
+    position:absolute;
+}
+#anhcamon img{
+    width: 275px;
+}
+.anthem{
+    text-align: center;
+    color:red;
+    font-size: 25px;
+}
+.anthem a{
+    color:rgb(0, 255, 42) !important;
+    font-size: 25px !important;
+    text-decoration:aqua;
+}
